@@ -43,7 +43,7 @@ The settings follow the caffe code provided in [Zhang et al.](https://github.com
 
 ## Reference
 
-If you use this code, please cite the following paper:
+If you use this code, please consider citing the following paper:
 
 Yuki M. Asano, Christian Rupprecht and Andrea Vedaldi.  "A critical analysis of self-supervision, or what we can learn from a single image." Proc. ICLR (2020)
 
