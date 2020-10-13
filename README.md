@@ -50,7 +50,7 @@ Yuki M. Asano, Christian Rupprecht and Andrea Vedaldi.  "A critical analysis of 
 ```
 @inproceedings{asano2020a,
   title={A critical analysis of self-supervision, or what we can learn from a single image},
-  author={Asano YM. and Rupprecht C. and Vedaldi A.},
+  author={Asano, Yuki M. and Rupprecht, Christian and Vedaldi, Andrea},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2020},
 }
